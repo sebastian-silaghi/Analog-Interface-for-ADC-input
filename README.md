@@ -63,9 +63,12 @@ This implementation demonstrates the real-world operation of the designed analog
 
 ## Tools
 
-The circuit design, simulations and practical implementation were performed using:
+The circuit design and simulations were performed using:
 
 - LTspice
+
+and the practical implementation and corresponding testing were made using:
+
 - Scopy
 
 ---
