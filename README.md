@@ -1,4 +1,4 @@
-# Analog-Interface-for-ADC-input
+# Analog-Interface-For-ADC-Input
 
 This project presents the **design, simulation, and practical implementation** of an analog signal conditioning interface intended for preparing sensor signals for **analog-to-digital conversion (ADC)**.
 
